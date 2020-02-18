@@ -13,7 +13,5 @@ public interface TableDao {
 
     @Insert
     void InsertMyEntity(MyEntity myEntity);
-
-
-
+    
 }
